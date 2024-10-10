@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Sanjay Kumar",
+      "email": "CHCMIRZAPUR@iqline.co.in",
+      "phone": "9121212917",
+      "role": "MO",
+      "permissions": {
+        "Create Tests": true,
+        "View Tests": true,
+        "Register Patient": true,
+        "Collect Samples": true,
+        "Add Results": true,
+        "Validate": true,
+        "View Reports": true,
+        "Edit Test": true,
+        "Generate Barcode": true,
+        "Edit Results": true,
+        "Report Approval": true,
+        "Generate Report": true,
+        "Create Test": true,
+        "Delete Results": true
+      },
+      "id": "1",
+      "tenantId": "2"
+    },
+    {
+      "name": "Parmod Paswan",
+      "email": "CHCNOIDA@iqline.co.in",
+      "phone": "9888712231",
+      "role": "User",
+      "permissions": {
+        "View Tests": true,
+        "Register Patient": true,
+        "View Reports": true,
+        "Validate": true,
+        "Generate Barcode": true,
+        "Edit Test": true
+      },
+      "id": "2",
+      "tenantId": "3"
+    }
+  ]
+}
